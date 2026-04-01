@@ -244,7 +244,8 @@ Maintains the platform, CI/CD pipelines, and operational infrastructure to suppo
 
 ---
 
-## How these personas are used in the exercise
-- Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
+## How to use these personas
+- Use these persona definitions to frame scenarios and sample interactions across OctoAcme projects and the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+- Reference this document from project charters or planning docs to clarify who owns what on a given engagement.
 
