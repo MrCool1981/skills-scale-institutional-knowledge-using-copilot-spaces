@@ -19,6 +19,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Release Manager, UX Lead, Technical Writer, QA Automation Engineer, Customer Support Liaison, Platform/DevOps Engineer — see [docs/octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for full definitions.
 
 ## Key Artifacts
 - Project Charter / One-pager
